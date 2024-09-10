@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+google-lens
+# Google Lens
 
-Based on "ABC" at https://www.abc.com/
+Based on "What's New" at chrome://whats-new/
 
 ## 100 - Introduction
 
